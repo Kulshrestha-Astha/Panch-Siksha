@@ -1,6 +1,7 @@
 # Panch-Siksha
-This website is created with the help of HTML,CSS,JavaScript,PHP,MySql.
+This website is created by using HTML,CSS,JavaScript,PHP,MySql.
 Through this website students can enroll themselves in any five-fold activity offered by the university and their entry will be saved in database.
+Below is the glimpse of website
 ![Screenshot 2023-07-13 204539](https://github.com/Kulshrestha-Astha/Panch-Siksha/assets/113650363/793f618a-4b3d-4586-a701-66475ce5b35d)
 ![Screenshot 2023-07-13 204602](https://github.com/Kulshrestha-Astha/Panch-Siksha/assets/113650363/1f75fc0b-3478-46ed-bfb3-8381cb8caad3)
 ![Screenshot 2023-07-13 204610](https://github.com/Kulshrestha-Astha/Panch-Siksha/assets/113650363/2851d698-31ac-418f-a791-f5567ef0d391)
